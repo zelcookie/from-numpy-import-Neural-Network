@@ -7,7 +7,7 @@
     - [Инструкция как добавлять](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 - Установите зависимости с помощью команды ```pip install -r requirements.txt```
 - Сделайте задание
-- Отправьте ссылку на репозиторий преподователю [@zelcookie](https://github.com/zelcookie)
+- Отправьте ссылку на репозиторий преподователям  [@zelcookie](https://github.com/zelcookie) [ksenia-klokova](https://github.com/ksenia-klokova)
 
 ## Описание задания
 В этой домашке есть две версии: простая и сложная. 
