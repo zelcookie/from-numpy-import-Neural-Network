@@ -29,7 +29,7 @@ I or the assistants will look and then we will discuss how to finish it.
 Believe me, this homework is worth doing! You will get more experience by doing the hard one, albeit there is nothing wrong if you choose the easy one.
 You will still have many opportunities to prove yourself as the course goes on.
 
-The easy homework is in the notebook `Homework Easy.ipynb`, the hard one is in `Homework Hard.ipynb`
+The easy homework is in the notebook `Homework_Easy_(eng).ipynb`, the hard one is in `Homework_Hard_(eng).ipynb`
 
 ## Installing dependencies
 Required third-party libraries
