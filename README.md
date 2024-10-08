@@ -3,11 +3,12 @@
 ## Как сделать домашку
 - Сделайте закрытый репозиторий
   - Используйте этот репозиторий как template, воспользуйтесь [инструкцией](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
-  - Добавьте в репозиторий [команду курса](https://github.com/BobaZooba/DeepNLP#%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0-%D0%BA%D1%83%D1%80%D1%81%D0%B0)
+  - Добавьте в репозиторий [zelcookie](https://github.com/zelcookie) [ksenia-klokova](https://github.com/ksenia-klokova)
+
     - [Инструкция как добавлять](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 - Установите зависимости с помощью команды ```pip install -r requirements.txt```
 - Сделайте задание
-- Отправьте ссылку на репозиторий преподователям  [@zelcookie](https://github.com/zelcookie) [ksenia-klokova](https://github.com/ksenia-klokova)
+- Отправьте ссылку на репозиторий преподователям  @zelcookie, @ksenia_klokova
 
 ## Описание задания
 В этой домашке есть две версии: простая и сложная. 
