@@ -1,5 +1,7 @@
 # from numpy import Neural Network
 
+For English, go [here](README_eng.md)
+
 ## Как сделать домашку
 - Сделайте закрытый репозиторий
   - Используйте этот репозиторий как template, воспользуйтесь [инструкцией](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
