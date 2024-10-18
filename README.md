@@ -10,7 +10,8 @@ For English, go [here](README_eng.md)
     - [Инструкция как добавлять](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 - Установите зависимости с помощью команды ```pip install -r requirements.txt```
 - Сделайте задание
-- Отправьте ссылку на репозиторий преподователям  @zelcookie, @ksenia_klokova
+- Вставьте ссылку на свой репозиторий со сделанным дз в строку со своим именем в столбик для HW1 в [этой таблицу](https://docs.google.com/spreadsheets/d/1XCmhsMbPVp9Zha-TamqNmLYxkp2KGjbZb9FsK5rf-No/edit?gid=0#gid=0)
+    - Если вы не нашли себя в этой таблице, просто добвьте туда данные о себе сами.
 
 ## Описание задания
 В этой домашке есть две версии: простая и сложная. 
