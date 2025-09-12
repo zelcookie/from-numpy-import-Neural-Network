@@ -7,7 +7,7 @@
     - [Instructions on how to add](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 - Install dependencies with ```pip install -r requirements.txt```
 - Complete the assignment
-- Paste the link to your repository with the completed homework in the row with your name in the column for HW1 in [this spreadsheet](https://docs.google.com/spreadsheets/d/1XCmhsMbPVp9Zha-TamqNmLYxkp2KGjbZb9FsK5rf-No/edit?gid=0#gid=0)
+- Paste the link to your repository with the completed homework in the row with your name in the column for HW1 in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wNtmGo5sVIbVIviRuXm90e_PcCDZ218cnd-ZMTiNyRU/edit?usp=sharing)
     - If you can't find yourself in this spreadsheet, just add your own credentials there yourself.
 
 ## Task description
