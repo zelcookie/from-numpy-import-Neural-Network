@@ -3,7 +3,7 @@
 ## How to submit your homework
 - Create a private repository
   - Use this repository as a template, follow [these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
-  - Add the course team [zelcookie](https://github.com/zelcookie) & [ksenia-klokova](https://github.com/ksenia-klokova) to the repository
+  - Add the course team [zelcookie](https://github.com/zelcookie) & [ryzhik22](https://github.com/ryzhik22) to the repository
     - [Instructions on how to add](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 - Install dependencies with ```pip install -r requirements.txt```
 - Complete the assignment
@@ -43,7 +43,7 @@ The literacy and style of the code will not be checked, but reading beautiful co
 Maximum score: 10 (if you only submit the easy part, the maximum is 6 points).
 
 ## Deadline
-15/10/2024
+22/09/2025
 After that the maximum score for the hard version is 7
 
 ## Important requests from us
