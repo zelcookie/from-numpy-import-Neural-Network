@@ -5,7 +5,7 @@ For English, go [here](README_eng.md)
 ## Как сделать домашку
 - Сделайте закрытый репозиторий
   - Используйте этот репозиторий как template, воспользуйтесь [инструкцией](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
-  - Добавьте в репозиторий [zelcookie](https://github.com/zelcookie) [ksenia-klokova](https://github.com/ksenia-klokova)
+  - Добавьте в репозиторий [zelcookie](https://github.com/zelcookie) [ryzhik22](https://github.com/ryzhik22)
 
     - [Инструкция как добавлять](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 - Установите зависимости с помощью команды ```pip install -r requirements.txt```
@@ -42,7 +42,7 @@ For English, go [here](README_eng.md)
 Максимальный балл: 10 (если сдать только легкую часть максимум 6 баллов).
 
 ## Дедлайн
-15/10/2024
+22/09/2025
 Далее максимальный балл за работу: 7
 
 ## Важные просьбы
