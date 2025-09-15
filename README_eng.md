@@ -53,4 +53,4 @@ After that the maximum score for the hard version is 7
 ## Additional materials
 - [Andrej Karpathy's lecture](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [Quite an old video of mine that might help you](https://www.youtube.com/watch?v=tZ0yCzWfbZc)
-- [A very good tutorial](https://towardsdatascience.com/nothing-but-numpy-understanding-creating-binary-classification-neural-networks-with-e746423c8d5c)
+- [A very good tutorial](https://medium.com/data-science/nothing-but-numpy-understanding-creating-binary-classification-neural-networks-with-e746423c8d5c)
