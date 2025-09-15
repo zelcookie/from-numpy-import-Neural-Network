@@ -53,4 +53,4 @@ For English, go [here](README_eng.md)
 ## Дополнительные материалы
 - [Лекция Карпатого](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [Достаточно старое мое видео, которое может вам помочь](https://www.youtube.com/watch?v=tZ0yCzWfbZc)
-- [Очень хороший туториал](https://towardsdatascience.com/nothing-but-numpy-understanding-creating-binary-classification-neural-networks-with-e746423c8d5c)
+- [Очень хороший туториал](https://medium.com/data-science/nothing-but-numpy-understanding-creating-binary-classification-neural-networks-with-e746423c8d5c)
