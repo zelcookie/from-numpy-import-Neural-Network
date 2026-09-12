@@ -43,7 +43,7 @@ The literacy and style of the code will not be checked, but reading beautiful co
 Maximum score: 10 (if you only submit the easy part, the maximum is 6 points).
 
 ## Deadline
-21/09/2025
+21/09/2026
 After that the maximum score for the hard version is 7
 
 ## Important requests from us
