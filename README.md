@@ -5,13 +5,15 @@ For English, go [here](README_eng.md)
 ## Как сделать домашку
 - Сделайте закрытый репозиторий
   - Используйте этот репозиторий как template, воспользуйтесь [инструкцией](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
-  - Добавьте в репозиторий [zelcookie](https://github.com/zelcookie) [ryzhik22](https://github.com/ryzhik22)
+  - Добавьте в репозиторий проверяющего(появится позже)
 
     - [Инструкция как добавлять](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+
+ 
 - Установите зависимости с помощью команды ```pip install -r requirements.txt```
 - Сделайте задание
-- Вставьте ссылку на свой репозиторий со сделанным дз в строку со своим именем в столбик для HW1 в [этой таблицу](https://docs.google.com/spreadsheets/d/1wNtmGo5sVIbVIviRuXm90e_PcCDZ218cnd-ZMTiNyRU/edit?usp=sharing)
-    - Если вы не нашли себя в этой таблице, просто добвьте туда данные о себе сами.
+- Вставьте ссылку на свой репозиторий со сделанным дз в строку со своим именем в столбик для HW1 в [эту таблицу](https://docs.google.com/spreadsheets/d/1eccWb93ugWZT-uurjBR61NBvyfLp_Cg-By7fGq0nv0I/edit?usp=sharing)
+    
 
 ## Описание задания
 В этой домашке есть две версии: простая и сложная. 
@@ -42,7 +44,7 @@ For English, go [here](README_eng.md)
 Максимальный балл: 10 (если сдать только легкую часть максимум 6 баллов).
 
 ## Дедлайн
-22/09/2025
+21/09/2025
 Далее максимальный балл за работу: 7
 
 ## Важные просьбы
