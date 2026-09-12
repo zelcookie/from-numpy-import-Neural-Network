@@ -3,11 +3,11 @@
 ## How to submit your homework
 - Create a private repository
   - Use this repository as a template, follow [these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
-  - Add the course team [zelcookie](https://github.com/zelcookie) & [ryzhik22](https://github.com/ryzhik22) to the repository
+  - Add the reviewer to the repository (the reviewer will be announced later).
     - [Instructions on how to add](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 - Install dependencies with ```pip install -r requirements.txt```
 - Complete the assignment
-- Paste the link to your repository with the completed homework in the row with your name in the column for HW1 in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wNtmGo5sVIbVIviRuXm90e_PcCDZ218cnd-ZMTiNyRU/edit?usp=sharing)
+- Paste the link to your repository with the completed homework in the row with your name in the column for HW1 in [this spreadsheet](https://docs.google.com/spreadsheets/d/1eccWb93ugWZT-uurjBR61NBvyfLp_Cg-By7fGq0nv0I/edit?usp=sharing)
     - If you can't find yourself in this spreadsheet, just add your own credentials there yourself.
 
 ## Task description
@@ -43,7 +43,7 @@ The literacy and style of the code will not be checked, but reading beautiful co
 Maximum score: 10 (if you only submit the easy part, the maximum is 6 points).
 
 ## Deadline
-22/09/2025
+21/09/2025
 After that the maximum score for the hard version is 7
 
 ## Important requests from us
