@@ -3,7 +3,7 @@
 ## How to submit your homework
 - Create a private repository
   - Use this repository as a template, follow [these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
-  - Add the reviewer to the repository (the reviewer will be announced later).
+  - Add the reviewer  [ryzhik22](https://github.com/ryzhik22) to the repository.
     - [Instructions on how to add](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 - Install dependencies with ```pip install -r requirements.txt```
 - Complete the assignment
