@@ -5,7 +5,7 @@ For English, go [here](README_eng.md)
 ## Как сделать домашку
 - Сделайте закрытый репозиторий
   - Используйте этот репозиторий как template, воспользуйтесь [инструкцией](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
-  - Добавьте в репозиторий проверяющего(появится позже)
+  - Добавьте в репозиторий [ryzhik22](https://github.com/ryzhik22)
 
     - [Инструкция как добавлять](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
